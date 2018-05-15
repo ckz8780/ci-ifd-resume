@@ -2,7 +2,11 @@
 
 This is the 2nd version of the resume mini project from the Interactive Frontend Design module for CodeInstitute.
 
-It integrates a few new features such as the Google Maps API and the Github API.
+It integrates a few new features:
+
+- Utilizes the Google Maps API to plot event locations on the "Interests" page
+- Utilizes the Github API to allow a user to pull github repo information
+- Utilizes EmailJS to enable the contact form to send emails
 
 #### Notes:
 
